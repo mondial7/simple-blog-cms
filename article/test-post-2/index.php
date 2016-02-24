@@ -1,0 +1,1 @@
+<?php include '../../admin_panel/article_template/index.php'; ?>

@@ -1,0 +1,41 @@
+{
+  "title": "Dici cosi viva",
+  "subtitle": "Energia delizia sognare",
+  "meta_title": "Dici cosi viva",
+  "meta_description": "Inquieto cio affinita dal mio orribile troverei scarabei.",
+  "meta_keywords": "a,b,c,d,e,f,m",
+  "contents": [
+    {
+      "type": "gallery",
+      "data":[
+                {"src": "example1.jpg","alt": "Example 1"},
+                {"src": "example2.jpg","alt": "Example 2"},
+                {"src": "example3.jpg","alt": "Example 3"},
+                {"src": "example4.jpg","alt": "Example 4"}
+            ]
+    },
+    {
+      "type": "text",
+      "src": "Inquieto cio affinita dal mio orribile troverei scarabei. Avvelenate cominciata non improvvisa esaltavano accostarmi lei osi. Sapevi suo accade salivo appare sui. Fu tono limo voto egli vene un tu. Gomito orrore gli scelto dev dianzi dir cui. Si in pensava un tu imagine andiate dovesti spasimo. Rifletti la torrente paradiso ne su rimanete."
+    },
+    {
+      "type": "image",
+      "src": "example1.jpg",
+      "alt": "Dici cosi viva",
+      "title":"Beach Bar",
+      "rights":"Goofy",
+      "rights_url":"http://www.example.com"
+    },
+    {
+      "type": "text",
+      "src": "Arrivo ma da ad tu quante posata preghi saremo. Dici cosi viva uno taci far come fra. Dev dir altissimo una oro disperato desiderio consolato. Indebolite implorando esplorarne riflettere mai trascinava fra. Nevi cose seme doni ha ai oh nudo. Animatrici scegliendo poi mettendosi dov piacerebbe pel par attenzione. Acque po toppa ho me altra cairo colei di. Passaggio prendesse lo rivedervi portarono mi mutamenti no inebriato. Soli ha sera la sara pura ella. \n\n Oggi ti esce fine ambe mite ti la lo. Afa rimanete ritrovar uno vivevano apriremo col. Chi perpetuato ingannaste sollevando uno all ammirabile. Importuna impedisce napoleoe con nel accomiata. Accorrendo ritroverai toglieremo giu mio nel. Obliare inutile sai sul sia ansieta offrono. Chi san solo nel fina qual tipo."
+    },
+    {
+      "type": "video",
+      "src": "https://www.youtube.com/embed/GjnadPBMJGs"
+    }
+  ],
+  "birthday": "23_11_2015_12:41:05",
+  "date_edit": "23_11_2015_12:41:05",
+  "thumb": "example1.jpg"
+}
