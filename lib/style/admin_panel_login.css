@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+form {
+    width: 90%;
+    margin: auto;
+}
+
+input {
+    display: block;
+    width: 250px;
+    height: 70px;
+    line-height: 70px;
+    margin: 15px 0;
+    margin: auto;
+    margin-top: 25px;
+}
+
+input[type=submit] {
+    background-color: #345678;
+}
+
+input[type=submit]:hover {
+    background-color: #876543;
+}
+
+#link_to_land {
+    position: relative;
+    top: 100px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    line-height: 200px;
+    background-color: #345678;
+    color: #f2f2f2;
+    margin: auto;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+#link_to_land:hover {
+    background-color: #876543;
+}
+
+
+
+
