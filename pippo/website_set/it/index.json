@@ -1,0 +1,15 @@
+{
+    "title":"Blog Title",
+	"search":"Cerca",
+	"about":"About",
+	"contacts":"Contatti",
+	"message":"Messaggi",
+	"name":"Nome",
+	"surname":"Cognome",
+	"message_placeholder":"Scrivi qui il tuo messaggio",
+	"submit":"Invia",
+	"404error":"Ooooppssss... Qui non c'è niente! :/",
+	"alert_message_ok":"Messaggio inviato correttamente",
+	"alert_message_error":"Messaggio non inviato, per cortesia riprova o utilizza la email",
+	"message_form_label":"Scrivici un messaggio o mandaci una mail a "
+}

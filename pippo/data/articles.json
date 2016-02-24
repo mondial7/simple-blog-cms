@@ -1,0 +1,14 @@
+[
+  {
+    "published": "true",
+    "src": "test-post-1",
+    "title": "POST 1",
+    "thumb": "example1.jpg"
+  },
+  {
+    "published": "true",
+    "src": "test-post-2",
+    "title": "POST 2",
+    "thumb": "example2.jpg"
+  }
+]

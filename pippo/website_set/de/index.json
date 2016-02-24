@@ -1,0 +1,15 @@
+{
+    "title":"Blog Title",
+	"search":"Suchen",
+	"about":"About",
+	"contacts":"Kontakte",
+	"message":"Nachricht",
+	"name":"Name",
+	"surname":"Vorname",
+	"message_placeholder":"Schriben Sie hier Ihre Nachricht ...",
+	"submit":"Senden",
+	"404error":"Ooooppssss... Hier ist nichts! :/",
+	"alert_message_ok":"Nachricht erfolgreich gesendet",
+	"alert_message_error":"Nachricht nicht gesendeten",
+	"message_form_label":"Bitte senden Sie eine Nachricht oder schreiben Sie eine E-Mail an "
+}
