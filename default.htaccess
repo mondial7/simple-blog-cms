@@ -1,0 +1,11 @@
+# Personalize Error page
+ErrorDocument 403 /error.php
+ErrorDocument 404 /error.php
+
+# Manage Multilanguage Pretty urls
+RewriteEngine On
+RewriteRule ^(en|de|it)$ ?lang=$1 [L]
+RewriteRule ^contacts/(en|de|it)$ contacts/?lang=$1 [L]
+RewriteRule ^about/(en|de|it)$ about/?lang=$1 [L]
+RewriteRule ^article/([^/]+)(/)(en|de|it)$ article/$1?lang=$3 [L]
+
