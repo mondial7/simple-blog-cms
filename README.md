@@ -1,5 +1,7 @@
-# simple-blog-cms
+# Simple blog cms
 
-Simple blog cms, work in progress. Still lots of bugs and missing features at the moment for example in the publishing: the multilanguage system and the gallery content type are not yet supported.
+Please, do a favor to the world and never use this code.
+
+Btw, I am 'really' proud about my shame code and my attempt in building a blog cms without db.
 
 online example of results: http://thatsmy.name/github/simple-blog-cms/
